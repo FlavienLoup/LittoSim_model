@@ -1,0 +1,1 @@
+The documentation is in the file 'docs\Generate_DEM_rugosity_grid.md'
